@@ -1,0 +1,12 @@
+.btn {
+	padding: 15px;
+}
+
+.btnEliminar {
+	background-color: red;
+	margin-left: 10px;
+}
+
+.btnModificar {
+	background-color: aqua;
+}
